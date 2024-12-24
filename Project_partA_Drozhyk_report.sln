@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_partA_Drozhyk_report", "Project_partA_Drozhyk_report\Project_partA_Drozhyk_report.csproj", "{1E127FEC-228E-44C3-BB09-77EA129D63A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{13645DE5-05C0-4443-92BE-95E3B80E0568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E127FEC-228E-44C3-BB09-77EA129D63A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E127FEC-228E-44C3-BB09-77EA129D63A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E127FEC-228E-44C3-BB09-77EA129D63A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E127FEC-228E-44C3-BB09-77EA129D63A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13645DE5-05C0-4443-92BE-95E3B80E0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13645DE5-05C0-4443-92BE-95E3B80E0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13645DE5-05C0-4443-92BE-95E3B80E0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13645DE5-05C0-4443-92BE-95E3B80E0568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D793E031-53A6-4D58-8CD7-EAF4BC9A1E87}
+	EndGlobalSection
+EndGlobal
